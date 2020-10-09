@@ -1,5 +1,5 @@
 # Escuela Colombiana de Ingeniería
-## Laboratorios de la materia Arquitecturas de Software – ARSW
+## Laboratorios de la materia : Arquitecturas de Software – ARSW
 
 ### Estudiantes
 
