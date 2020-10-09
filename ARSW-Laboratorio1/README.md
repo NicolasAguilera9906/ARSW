@@ -1,14 +1,7 @@
-# Arsw-lab1
+# Escuela Colombiana de Ingeniería
+## Laboratorios de la materia Arquitecturas de Software – ARSW
 
-## Estudiantes
+### Estudiantes
 
-  - Juan Camilo Angel Hernandez
-  - Nicolas Aguilera Contreras
-  
-## Compile and run instructions.
- 
-- Para compilar: maven package
-- Para ejecutar la clase principal: mvn exec:java -Dexec.mainClass="edu.eci.arsw.threads.CountThreadsMain"
-- Para ejecutar las pruebas: mvn test
-
-Ver [parte uno](resources/part1.md)
+  [![Juan Camilo Angel](https://github.com/juancamilo399)
+  [![Nicolás Aguilera Contreras](https://github.com/NicolasAguilera9906)
