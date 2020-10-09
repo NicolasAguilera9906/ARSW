@@ -3,5 +3,6 @@
 
 ### Estudiantes
 
-  [![Juan Camilo Angel](https://github.com/juancamilo399)
-  [![Nicolás Aguilera Contreras](https://github.com/NicolasAguilera9906)
+  [[Juan Camilo Angel](https://github.com/juancamilo399)
+  
+  [[Nicolás Aguilera Contreras](https://github.com/NicolasAguilera9906)
